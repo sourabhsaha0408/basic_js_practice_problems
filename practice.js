@@ -1,4 +1,4 @@
-const word = "banana";
+const word = "apple";
 let countOfVowels = 0;
 let countOfConsonants = 0;
 
